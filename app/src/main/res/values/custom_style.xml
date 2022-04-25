@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <style name="Roundedsquare">
+        <item name="cornerSize">10%</item>
+    </style>
+
+   <style name="Roundedsquare1">
+    <item name="cornerSize">50%</item>
+</style>
+
+</resources>
